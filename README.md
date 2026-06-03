@@ -148,9 +148,9 @@ Allows administrators to:
 * Integration with enterprise ERP systems
 
 ---
-<img width="1897" height="1043" alt="Screenshot 2026-05-25 093001 - Copy" src="https://github.com/user-attachments/assets/60bbb4ec-8a23-4681-94ec-569a1705194a" />
-<img width="1882" height="1092" alt="Screenshot 2026-05-25 092630 - Copy" src="https://github.com/user-attachments/assets/49761081-7b5c-4fbf-ac09-59acfa61a4aa" />
-<img width="1919" height="1097" alt="Screenshot 2026-05-25 092518 - Copy" src="https://github.com/user-attachments/assets/cc9f0a61-22d5-48fb-8bc7-439a3b6f4be7" />
-<img width="1892" height="1089" alt="Screenshot 2026-05-25 093042" src="https://github.com/user-attachments/assets/c5889020-cc11-40db-8385-cb6f00d77afb" />
-<img width="1908" height="1103" alt="Screenshot 2026-05-25 093030 - Copy" src="https://github.com/user-attachments/assets/ed305122-1e46-47fe-872b-36305454577d" />
-<img width="1919" height="1089" alt="Screenshot 2026-05-25 093016 - Copy" src="https://github.com/user-attachments/assets/62428ea9-ed45-4d37-a8e9-b3ec16c18adf" />
+
+<img width="1916" height="944" alt="image" src="https://github.com/user-attachments/assets/7eca6806-2416-4d47-9c0b-b291ab0390c5" />
+<img width="1911" height="949" alt="image" src="https://github.com/user-attachments/assets/f5b927f1-5f23-4024-846c-585009f0d55e" />
+<img width="1889" height="946" alt="Screenshot 2026-06-03 092523" src="https://github.com/user-attachments/assets/646e6ff0-67bd-41ef-8b0a-c58d2f5965a8" />
+<img width="1913" height="949" alt="image" src="https://github.com/user-attachments/assets/9433a7ea-7cf4-423e-992a-d3a77805f46d" />
+
